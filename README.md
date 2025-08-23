@@ -12,7 +12,7 @@ Mainly work with ROS 1, MAVLink, PIX4, quadcopters, machine vision OpenCV. The m
 
 ### My projects
 
-- [ARUS](https://discord.gg/e4PsDjRzED)
+- [PYMPY](https://github.com/MaxX-Akela/PYMPY)
 - [ART DRONE](https://uav-artist.tilda.ws/)
 
  I hope there will be more of them :-3

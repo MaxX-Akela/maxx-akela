@@ -6,7 +6,7 @@
 ### About me
 I am MaxX_Akela or Akela, as you prefer. In my free time I program. I have been studying Python for 2 years, C# for a year, and recently Java.
 
-Mainly work with ROS 1, MAVLink, PIX4, quadcopters, machine vision OpenCV. The main competence is Flying Robotics, UAV.
+Mainly work with ROS 1, MAVLink, PX4, quadcopters, OpenCV. The main competence is Flying Robotics, UAV, AUV, ROV.
 
 <hr/>
 

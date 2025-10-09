@@ -14,6 +14,7 @@ Mainly work with ROS 1, MAVLink, PX4, quadcopters, OpenCV. The main competence i
 
 - [PYMPY](https://github.com/MaxX-Akela/PYMPY)
 - [ART DRONE](https://uav-artist.tilda.ws/)
+- [Window Cleaning Drone](https://github.com/Pulse-Width-Modulation-I-T/window_cleaning_drone)
 
  I hope there will be more of them :-3
 

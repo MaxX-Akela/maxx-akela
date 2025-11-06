@@ -10,6 +10,3 @@ Mainly work with ROS 1, MAVLink, PX4, quadcopters, OpenCV. The main competence i
 
 <hr/>
 
- I hope there will be more of them :-3
-
-<hr/>

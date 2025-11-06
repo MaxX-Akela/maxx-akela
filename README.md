@@ -15,3 +15,10 @@ Mainly work with ROS 1, MAVLink, PX4, quadcopters, OpenCV. The main competence i
   ![MaxX-Akela's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MaxX-Akela&include_orgs=true&theme=dark&show_icons=true)
 
 </div>
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaxX-Akela&include_orgs=true&orgs=Pulse-Width-Modulation-I-T&theme=dark&show_icons=true)
+
+</div>
+

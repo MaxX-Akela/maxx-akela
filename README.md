@@ -10,3 +10,8 @@ Mainly work with ROS 1, MAVLink, PX4, quadcopters, OpenCV. The main competence i
 
 <hr/>
 
+<div align="center">
+  
+  ![MaxX-Akela's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MaxX-Akela&include_orgs=true&theme=dark&show_icons=true)
+
+</div>

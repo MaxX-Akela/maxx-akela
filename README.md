@@ -18,7 +18,7 @@ Mainly work with ROS 1, MAVLink, PX4, quadcopters, OpenCV. The main competence i
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaxX-Akela&include_orgs=true&orgs=Pulse-Width-Modulation-I-T&theme=dark&show_icons=true)
+  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaxX-Akela&include_orgs=true&show_icons=true)
 
 </div>
 

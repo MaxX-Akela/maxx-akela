@@ -4,17 +4,14 @@
 <hr/>
 
 ### About me
-I am MaxX_Akela or Akela, as you prefer. In my free time I program. I have been studying Python for 2 years, C# for a year, and recently Java.
+Flying Robotics Engineer | ROS • PX4 • MAVLink • Computer Vision
 
-Mainly work with ROS 1, MAVLink, PX4, quadcopters, OpenCV. The main competence is Flying Robotics, UAV, AUV, ROV.
+### Currently working on
+- [Clover](https://github.com/CopterExpress/clover) - autonomous drones based on PX4 , ROS1
+- [EyeCar](https://avt.global/eyecar) - autonomous car
+- [PowerBottom](https://github.com/Pulse-Width-Modulation-I-T/PowerBottom_ROS_DRONE) *(personal project)* -  autonomous drone for window cleaning
 
 <hr/>
-
-<div align="center">
-  
-  ![MaxX-Akela's GitHub stats](https://github-readme-stats.vercel.app/api/?username=MaxX-Akela&include_orgs=true&theme=dark&show_icons=true)
-
-</div>
 
 <div align="center">
   

@@ -10,6 +10,8 @@ Flying Robotics Engineer | ROS • PX4 • MAVLink • Computer Vision
 - [Clover](https://github.com/CopterExpress/clover) - autonomous drones based on PX4 , ROS1
 - [EyeCar](https://avt.global/eyecar) - autonomous car
 - [PowerBottom](https://github.com/Pulse-Width-Modulation-I-T/PowerBottom_ROS_DRONE) *(personal project)* -  autonomous drone for window cleaning
+- [DroneSwarm](https://github.com/MaxX-Akela/DroneSwarm) *(personal project)* - Software for creating shows (swarm flight)
+
 
 <hr/>
 

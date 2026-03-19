@@ -11,8 +11,11 @@ Flying Robotics Engineer | ROS • PX4 • MAVLink • Computer Vision
 - [EyeCar](https://avt.global/eyecar) - autonomous car
 - [PowerBottom](https://github.com/Pulse-Width-Modulation-I-T/PowerBottom_ROS_DRONE) *(personal project)* -  autonomous drone for window cleaning
 - [DroneSwarm](https://github.com/MaxX-Akela/DroneSwarm) *(personal project)* - Software for creating shows (swarm flight)
+<hr/>
+<div align="center">
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api?username=MaxX-Akela&theme=tokyonight&show_icons=true)](https://github.com/MaxX-Akela)
+  
 <hr/>
 
 <div align="center">

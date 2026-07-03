@@ -14,10 +14,6 @@ UAV Engineer | ROS • PX4 • MAVLink • OpenCV
 <div align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api?username=MaxX-Akela&theme=tokyonight&show_icons=true)](https://github.com/MaxX-Akela)
-  
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaxX-Akela&include_orgs=true&show_icons=true)
 
 </div>
 

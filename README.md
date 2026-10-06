@@ -12,7 +12,11 @@ UAV Engineer | ROS • PX4 • ArduSub
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,unity,raspberrypi,py,opencv,cpp,java,arduino,kali"></p>
 <hr/>
 
-<div align="center">
-  <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MaxX-Akela&include_orgs=true&theme=tokyonight&layout=compact" />
+<div align="left">
+  <img height="300" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaxX-Akela&include_orgs=true&theme=tokyonight&layout=compact" />
+</div>
+
+<div align="right">
+  <img height="300" src="https://github-stats-extended.vercel.app/api?username=MaxX-Akela&include_orgs=true&theme=tokyonight&layout=compact" />
 </div>
 

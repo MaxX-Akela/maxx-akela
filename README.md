@@ -1,14 +1,19 @@
-## Hi all 👋
+## Hi there 👋
 
-### About me
-UAV Engineer | ROS • PX4 • ArduSub
+**UAV Hardware Engineer** — drones, flight controllers, ROS and PX4.
 
-### Currently working on
-- [Clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones🍀
-- [DroneSwarm](https://github.com/MaxX-Akela/DroneSwarm) *(personal project)* - Software for creating shows (swarm flight)
-- [Clover-Origin-ROS2]() *(personal project)* - is a fork of the open-source [Clover framework](https://github.com/CopterExpress/clover) based on [ROS2](https://www.ros.org).
+### 🔧 Projects
+- **[XxamPix](https://github.com/MaxX-Akela/XxamPix)** — my own flight controller board line, inspired by COEX Pix / Pixracer
+- **[DroneSwarm](https://github.com/MaxX-Akela/DroneSwarm)** — software for drone light shows (swarm flight)
+- **[Clover-Origin-ROS2](https://github.com/MaxX-Akela/clover-origin-ros2)** — port of the [Clover](https://github.com/CopterExpress/clover) framework to ROS 2 Jazzy + Raspberry Pi 5 image
+- **[EyeCar-Image](https://github.com/MaxX-Akela/EyeCar-Image)** — Raspberry Pi 4/5 image + Docker for the EyeCar robot car
 
-<hr/>
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,unity,raspberrypi,py,opencv,cpp,java,arduino,kali"></p>
-<hr/>
+### 🛠 Working with
+[Clover](https://github.com/CopterExpress/clover) · ROS1 · PX4 · Raspberry Pi
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,py,opencv,linux,docker,git,vscode,java">
+</p>
+
+### 📫 Contact
+[Telegram]([https://t.me/y(https://t.me/MaaX_AKeLla)) · [Email](mailto:you@example.com)

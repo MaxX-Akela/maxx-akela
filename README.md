@@ -16,4 +16,4 @@
 </p>
 
 ### 📫 Contact
-[Telegram]([https://t.me/y(https://t.me/MaaX_AKeLla)) · [Email](mailto:you@example.com)
+[Telegram]([https://t.me/y(https://t.me/MaaX_AKeLla)) · [Email](mailto:max@maxx-akela.ru)
